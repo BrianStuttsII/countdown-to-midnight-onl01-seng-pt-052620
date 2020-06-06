@@ -25,4 +25,4 @@ end
 
   
 end
-countdown_with_sleep(20)
+countdown_with_sleep(5)
