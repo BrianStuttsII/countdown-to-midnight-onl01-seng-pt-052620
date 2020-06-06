@@ -10,4 +10,4 @@ puts "HAPPY NEW YEAR!"
 
 end
 
-co
+countdown(10)
